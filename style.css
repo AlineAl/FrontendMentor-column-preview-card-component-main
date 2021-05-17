@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+*, ::before, ::after {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-size: 15px;
+  font-family: "Big Shoulders Display", Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 16px 26px;
+}
+.container .card {
+  padding: 20px;
+}
+.container .card-1 {
+  background-color: red;
+}
+.container .card-2 {
+  background-color: red;
+}
+.container .card-3 {
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
